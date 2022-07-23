@@ -1,5 +1,5 @@
-복싱 사이트
+Boxing Site
 
-스파링 좋지만 싫어요
+I like sparring but i don't like it
 
-이건 이슈 테스트
+This is Issue Test
